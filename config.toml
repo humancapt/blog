@@ -36,7 +36,7 @@ disableLanguages        = []
 [params.intro]
 	header                = "Human Capital Blog"
 	paragraph             = "Sharing, Inpiration, Performance, Tips."
-	rssIntro              = true
+	rssIntro              = false
 	socialIntro           = true
 	hideWhenSingleColumn  = false
 	alwaysOnHomepage      = false
@@ -63,7 +63,7 @@ disableLanguages        = []
 	iOSColor            = "#ffffff"
 
 [params.footer]
-    rssFooter           = true
+    rssFooter           = false
     socialFooter        = true
 
 [menu]
