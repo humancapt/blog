@@ -1,7 +1,7 @@
 +++
-categories = ["inspiration"]
+categories = ["human inspiration"]
 date = 2020-11-28T17:00:00Z
-tags = ["human", "inspiration"]
+tags = ["human inspiration"]
 title = "Slamet Widodo Baktikan diri untuk Anak-Anak Yatim"
 
 +++
