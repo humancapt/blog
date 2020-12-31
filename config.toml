@@ -1,0 +1,91 @@
+baseurl                 = "example.com"
+DefaultContentLanguage  = "en"
+title                   = "Hugo Future Imperfect Slim"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+    unsafe                = true
+
+[outputs]
+    home                  = ["html", "json"]
+
+[params]
+    enableCDN             = false
+    cssFiles              = ["default"]
+    jsFiles               = ["default"]
+    highlightjs           = true
+    highlightjsTheme      = "default"
+    highlightjsLang       = []
+    viewMorePostsLink     = "/blog/"
+    readingTime           = true
+    imageStrech           = "horizontal"
+    socialShare           = ["twitter", "facebook", "linkedin", "email"]
+
+[params.header]
+	navbarTitle         = "HumanCapt"
+	dynamicTitles       = true
+	searchMenu          = true
+	shareMenu           = true
+	languageMenu        = false
+
+[params.intro]
+	header                = "Human Capital Blog"
+	paragraph             = "Sharing, Inpiration, Performance, Tips."
+	rssIntro              = true
+	socialIntro           = true
+	hideWhenSingleColumn  = false
+	alwaysOnHomepage      = false
+
+[params.intro.pic]
+    src                 = "/img/main/logo.jpg"
+    shape               = "circle"
+    width               = ""
+    alt                 = "Human Capital Blog"
+
+[params.sidebar]
+    about               = "A company’s most valuable asset is its employees."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+
+[params.meta]
+	description         = "Sharing, Inpiration, Performance, Tips."
+	author              = "HumanCapt"
+	favicon             = false
+	svg                 = true
+	faviconVersion      = "1"
+	msColor             = "#ffffff"
+	iOSColor            = "#ffffff"
+
+[params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+[menu]
+
+	[[menu.main]]
+		name              = "Home"
+		identifier        = "home"
+		url               = "/"
+		pre               = "<i class='fa fa-home'></i>"
+		weight            = 1
+
+[Languages]
+
+	[Languages.en]
+		LanguageCode        = "en"
+		LanguageName        = "English"
+		weight              = 1
+
+[social]
+	# Coding Communities
+    youtube               = "channel/UCZ0xLH_STXMbOJmMC6Zo7aw"
+
+[context.production.environment]
+    HUGO_VERSION = "0.79.1"
+
