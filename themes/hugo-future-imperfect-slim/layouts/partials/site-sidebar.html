@@ -10,7 +10,6 @@
         <header>
           <div>
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <img style="vertical-align: middle; max-width: 100%; margin-top: 10px; height: 100%; width: 100%;" src='{{ if eq .Params.Image "" }}{{else}}{{ .Params.Image}}{{end}}' alt="img">
           <time class="published" datetime="{{ .Date }}">{{ .Render "date" }}</time>
           </div>
         </header>
