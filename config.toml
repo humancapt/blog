@@ -1,4 +1,4 @@
-baseurl                 = "humancapt.netlify.app"
+baseurl                 = ""
 DefaultContentLanguage  = "en"
 title                   = "Human Capital Blog"
 theme                   = "hugo-future-imperfect-slim"
