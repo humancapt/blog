@@ -1,7 +1,6 @@
 <article class="post">
   {{ .Render "header" }}
   <div class="content">
-    <img style="vertical-align: middle; max-width: 100%; margin-top: 10px; height: 100%; width: 100%; " src='{{ if eq .Params.Image "" }}{{else}}{{ .Params.Image}}{{end}}' alt="">
     {{ .Render "featured" }}
     {{ $.Scratch.Set "summary" ((delimit (findRE "<p.*?>(.|\n)*?</p>" .Content 1) "") | truncate (default 500 .Site.Params.summary_length) (default "&hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
     {{ $.Scratch.Get "summary" }}
