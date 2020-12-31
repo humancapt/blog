@@ -1,6 +1,6 @@
-baseurl                 = "example.com"
+baseurl                 = "humancapt.netlify.app"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Human Capital Blog"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
