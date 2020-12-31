@@ -76,11 +76,53 @@ disableLanguages        = []
 		weight            = 1
 
 	[[menu.main]]
-		name              = "Human Inspiration"
-		identifier        = "human-inspiration"
-		url               = "/categories/human-inspiration/"
+		name              = "Inspiration"
+		identifier        = "inspiration"
+		url               = "/categories/inspiration/"
 		pre               = "<i class='fa fa-podcast'></i>"
 		weight            = 2
+
+	[[menu.main]]
+		name              = "Program"
+		identifier        = "program"
+		url               = "/categories/program/"
+		pre               = "<i class='fa fa-puzzle-piece'></i>"
+		weight            = 3
+
+	[[menu.main]]
+		name              = "Quotes"
+		identifier        = "quotes"
+		url               = "/categories/human-quotes/"
+		pre               = "<i class='fa fa-volume-up'></i>"
+		weight            = 4
+
+	[[menu.main]]
+		name              = "Motivation"
+		identifier        = "motivation"
+		url               = "/categories/motivation/"
+		pre               = "<i class='fa fa-street-view'></i>"
+		weight            = 5
+
+	[[menu.main]]
+		name              = "Community"
+		identifier        = "community"
+		url               = "/categories/community/"
+		pre               = "<i class='fa fa-users'></i>"
+		weight            = 6
+
+	[[menu.main]]
+		name              = "Skill"
+		identifier        = "skill"
+		url               = "/categories/skill/"
+		pre               = "<i class='fa fa-wrench'></i>"
+		weight            = 7
+
+	[[menu.main]]
+		name              = "Regulation"
+		identifier        = "regulation"
+		url               = "/categories/regulation/"
+		pre               = "<i class='fa fa-clipboard'></i>"
+		weight            = 8
 
 [Languages]
 

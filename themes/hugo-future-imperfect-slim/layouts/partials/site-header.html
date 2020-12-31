@@ -16,7 +16,7 @@
           <a href="{{ .URL | relLangURL }}" class="nav link"><i class="{{ .Identifier }}">&nbsp;</i>{{ .Name }}</a>
         {{ else }}
           {{/* New syntax: use '.Pre' for icon rendering */}}
-          <a href="{{ .URL | relLangURL }}" style="font-size: medium; font-weight: bold;" class="nav link">{{ .Pre | safeHTML}} {{ .Name }}</a>
+          <a href="{{ .URL | relLangURL }}" style="font-weight: bold;" class="nav link">{{ .Pre | safeHTML}} {{ .Name }}</a>
         {{ end }}
       {{ end }}
       {{ if .Site.Params.header.shareMenu }}<a href="#share-menu" class="nav link share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>{{ end }}
