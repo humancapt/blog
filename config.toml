@@ -75,6 +75,13 @@ disableLanguages        = []
 		pre               = "<i class='fa fa-home'></i>"
 		weight            = 1
 
+	[[menu.main]]
+		name              = "Human Inspiration"
+		identifier        = "human-inspiration"
+		url               = "/categories/human-inspiration/"
+		pre               = "<i class='fa fa-podcast'></i>"
+		weight            = 2
+
 [Languages]
 
 	[Languages.en]
