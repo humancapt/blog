@@ -39,6 +39,7 @@ $utility-white: hsl(0, 0%, 96%);
 /* Background & Border */
 
 $white: hsl(0, 0%, 100%);
+$red : #f95738;
 $black: hsl(0, 0%, 0%);
 $border-color: hsla(0, 0%, 63%, 0.3);
 $input-color: hsla(0, 0%, 63%, 0.07);
@@ -186,7 +187,6 @@ $masks: (
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
 html {
   color: $header-color;
   font-size: 1em;
@@ -1111,7 +1111,7 @@ figcaption {
    ========================================================================== */
 
 #site-header {
-  background-color: $white;
+  background-color: $red;
   border-bottom: $primary-border;
   box-shadow: $shadow-2;
   height: 3.5em;
@@ -1125,6 +1125,7 @@ figcaption {
 
 #site-nav {
   align-items: center;
+  color: $white;
   @include display-flex;
   justify-content: space-between;
   .flyout-menu {

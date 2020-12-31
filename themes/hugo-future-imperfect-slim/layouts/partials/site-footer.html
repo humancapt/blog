@@ -6,9 +6,10 @@
       </ul>
   {{ end }}
   <p class="copyright">
-    {{ (.Site.Copyright | safeHTML) | default (print "\u00A9 " .Site.LastChange.Year " " (.Site.Params.author | default .Site.Title)) }}
+    <span>All Right reserved &#169; {{ now.Format "2006" }} | HumanCapt | Built with <a href="https://gohugo.io/" target="_blank">HUGO</a> v.79.1 | Theme By <a href="https://github.com/pacollins/hugo-future-imperfect-slim" target="_blank">Hugo Future Imperfect Slim</a></span>
+    
       <br>
-    {{ i18n "attribution" . | safeHTML }}
+    <!-- {{ i18n "attribution" . | safeHTML }} tes -->
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
