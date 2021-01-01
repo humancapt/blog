@@ -643,7 +643,7 @@ figcaption {
   text-transform: uppercase; }
 
 .flyout-menu {
-  background-color: white;
+  background-color: #f95738;
   border-left: 1px solid rgba(161, 161, 161, 0.3);
   height: 100%;
   margin-top: 3.5em;
