@@ -643,7 +643,7 @@ figcaption {
   text-transform: uppercase; }
 
 .flyout-menu {
-  background-color: #f95738;
+  background-color: #d62828;
   border-left: 1px solid rgba(161, 161, 161, 0.3);
   height: 100%;
   margin-top: 3.5em;
@@ -859,7 +859,7 @@ figcaption {
    IDs and Grid
    ========================================================================== */
 #site-header {
-  background-color: #f95738;
+  background-color: #d62828;
   border-bottom: 1px solid rgba(161, 161, 161, 0.3);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   height: 3.5em;
