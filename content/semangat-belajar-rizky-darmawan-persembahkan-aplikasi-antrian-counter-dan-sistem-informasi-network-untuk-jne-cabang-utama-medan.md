@@ -1,0 +1,40 @@
++++
+categories = ["skill"]
+date = 2021-01-03T17:00:00Z
+tags = ["inspiration", "motivation", "program", "skill"]
+title = "Semangat Belajar Rizky Darmawan,  Persembahkan Aplikasi Antrian Counter dan Sistem Informasi Network untuk JNE Cabang Utama Medan"
+
++++
+![](/uploads/whatsapp-image-2020-11-18-at-09-37-33.jpeg)
+
+_Oleh : Tiara Ningtias, HC JNE MES_ 
+
+**IT merupakan salah satu unit yang sangat berperan penting dalam percepatan dan efisiensi pekerjaan dimana pada zaman milenial dan instan ini, semua serba online dan membutuhkan dukungan jaringan serta program yang tepat, termasuk proses maintenance juga adalah hal yang sangat vital bagi pekerjaan operasional.**
+
+Salah satunya mesin atau aplikasi antrian, terlihat sepele tetapi sangat mempengaruhi kualitas _service_ JNE di mata _customer._ _Counter_ yang rapi dan kondusif tentu akan mendukung kualitas pelayanan yang _excellent_. Aplikasi antrian merupakan kebutuhan yang sudah direncanakan dari tahun-tahun sebelumnya dan kemudian dijadikan sebuah inisiatif target managemen di tahun 2020 juga menjadi keinginan para _sales counter officer_ yang ada di kantor-kantor perwakilan JNE Cabang Utama Medan. Hampir di setiap bulannya keinginan untuk diadakannya mesin atau aplikasi antrian selalu masuk ke kotak saran yang disediakan oleh managemen Cabang Utama Medan.
+
+Baru-baru ini pria kelahiran Maret 1994 bernama Rizky Darmawan dari unit IT, di usianya yang sangat muda dengan segala kapabilitasnya di bidang _programmer_ me-_launching_ sebuah aplikasi antrian di salah satu _counter_ yang ada di Kantor Perwakilan Medan Timur. Setelah sebelumnya sempat dipresentasikan di depan managemen, maka tepat di tanggal 17 November 2020 aplikasi pemanggil antrian ini secara resmi dipasang dan digunakan oleh _Sales Counter Counter_ JNE Simpang Pelangi Medan.
+
+Managemen sangat mengapresiasi atas karya Rizky sebagai realisasi dari inisiatif yang ditetapkan managemen pada awal 2020. Seperti yang kita ketahui bahwa aplikasi ataupun mesin antrian tentu harganya tidak murah, berkisar 3 sampai dengan 4 jutaan, itupun hanya _software_ aplikasinya saja. Maka aplikasi yang diciptakannya kali ini bersifat _offline_ berbasis _webbase_, yang dapat dibuka oleh siapa saja dan di komputer atau di _counter_ mana saja. Cara kerjanya juga sangat mudah, cukup _login_ dengan _user_ lalu klik sesuai dengan nomor _counter_ yang sudah ditetapkan. Tentu dengan di _launching_-nya aplikasi antrian ini membuat bahagia para _sales counter officer_ karena dengan adanya aplikasi ini memudahkan para SCO untuk memanggil _customer_ juga menjaga kondisi _counter_ tetap kondusif.
+
+Pria yang sudah bergabung di JNE sejak 2012 sebagai staf IT _support_, beliau di nilai sebagai sosok yang _introvert_ dan _humble_, tidak suka mem-_posting_ apa yang menjadi nilai lebih dari dirinya termasuk karya-karyanya. Bagi Rizky bekerja di bidang IT adalah _passion,_ dan _passion_ itu didukung pula dengan latar belakang pendidikan beliau. Beliau sekolah di SMK RPL (Rekayasa Perangkat Lunak). Setelah selesai di SMK RPL dan bergabung ke JNE Medan, beliau merasa jendela dunia terbuka sangat lebar di hadapannya. Dilihatnya JNE pusat ataupun yang berkantor di Jakarta mampu membuat banyak aplikasi yang menarik, dan beliau pun termotivasi akan itu. Maka hal itulah yang membuat rasa penasaran dan ingin berkaryanya meningkat, “mengapa mereka bisa, bagaimana caranya, pasti kita juga bisa” begitu ungkap motivasinya.
+
+Kemudian Rizky melanjutkan kuliah jurusan sistem informasi. Namun pada saat itu beliau belum begitu memahami _coding_ dan menyukai _coding_. Beliau menjalani kuliah juga sambil bekerja, beruntungnya koordinator beliau juga tidak mempermasalahkan hal tersebut. “Silahkan kuliah, yang penting tidak mengganggu pekerjaan dan pekerjaan dapat selesai”, begitu tegas Pak Awal Ramadhan, atasan beliau saat itu. Beliau merasa mulai dari kuliah sampai menikah JNE sangat membantu keberhasilannya. Rizky merasa JNE sudah banyak memberikan kesempatan untuk dirinya dapat berkembang, dan ia berpikir mengapa ia tidak memberikan sumbangsih juga untuk JNE.
+
+Di Januari 2019 terjadi perubahan struktur organisasi di JNE Cabang Utama Medan, dimana Rizky harus pindah ke unit _Finance._ Selama bertugas di unit _finance_, rasa _care_ Rizky tidak berkurang terhadap unit IT. Namun tugas dan kewajibannya sebagai staf unit _finance_ tetap diselesaikan dengan baik dan maksimal. Lingkungan dan rekan-rekan Rizky di _finance_ juga mendukung minat dan kesukaan Risky sehingga ia tetap berkembang sesuai dengan _talent_-nya.
+
+Rizky tetap menganggap aplikasi antrian adalah PR-nya yang belum selesai walau beliau sudah di unit lain. Pada saat itu Rizky menyadari bahwa ia juga masih memiliki kekurangan di kemampuan _coding_ dan _programmer_. Maka dari itu walau raga di _finance_ tetapi hasrat untuk mencari tahu bagaimana membuat aplikasi antrian terus menggelora dalam dirinya. Setiap hari setelah pekerjaannya selesai, baik di jam istrahat atau di waktu-waktu senggang ia selalu mencari tahu dan belajar tentang _programmer_ dan _coding_ pembuatan aplikasi antrian.
+
+Memasuki tahun 2020 Rizky mendapat tawaran untuk kembali ke unit IT, beliau menerima tawaran tersebut dan tentu sangat senang karena apa yang beliau pelajari selama ini di _finance_ akhirnya bisa dilanjutkan dengan lebih fokus lagi. Kemudian beliau bertanya ke Head Unit IT terkait inisiatif apa saja yang akan dilakukan tim IT untuk 2020, ternyata salah satunya adalah aplikasi antrian.
+
+Dalam pengerjaan aplikasi ini juga tidak lepas dari kesulitan juga kendala-kendala. Salah satu kendala yang sering dihadapinya adalah rasa suntuk yang sering datang karena jaringan dan sinyal yang sulit atau _eror_. Namun beliau mengatasinya dengan mencari referensi yang mendukung pekerjaan dan kalau sudah benar-benar penat, beliau biasanya menghentikannya sejenak, jika memungkinkan beristirahat atau tidur dan biasanya di keesokan harinya pikiran kembali _fresh_ dan bisa melanjutkan pekerjaan kembali.
+
+Rizky menyatakan bahwa bekerja di bawah tekanan tidak sesuai baginya, yang benar adalah mengerjakan apa yang disukai atau sesuai _passion_, karena kalau bekerja di bawah tekanan biasanya ide tidak akan muncul khususnya di bidang _programmer_. Baginya setiap _project_ dan target yang diberikan adalah sebuah hal yang baru yang akan memberikan ilmu baru, dianggap sebagai pembelajaran, apa yg dipelajari pasti akan berguna dan tidak ada yang sia sia.
+
+Rizky juga sempat berpikir bahwa tim di _counter_ akan _complain_ karena dalam aplikasi ini masih terdapat _bug_ _(error_ pada _programming)_ ataupun kekurangan yang harus terus di _upgrade_ dan disempurnakan. “Harapan saya apa yang saya buat bisa bermanfaat untuk orang banyak, saya dan tim IT lainnya juga akan melakukan _monitoring_ secara konsisten untuk memastikan aplikasi berjalan maksimal” tambah Rizky. Pembuatan aplikasi antrian yang pengerjaannya dimulai sejak beliau di _finance,_ adalah persembahan sebuah karya untuk JNE menjadi lebih baik.
+
+![](/uploads/whatsapp-image-2020-11-11-at-17-27-57.jpeg)
+
+Dan pada kesempatan _breafing_ bulanan karyawan pada 10 November 2020 Rizky Darmawan diberi apresiasi dan hadiah oleh managemen di depan seluruh karyawan agar sekiranya dapat memotivasi karyawan yang lain untuk senantiasa memberikan yang terbaik. Apresiasi dan hadiah diberikan secara langsung oleh Kepala Cabang JNE Cabang Utama Medan, Bapak Fikri Al Haq Fachryana sembari mengucapkan terimakasih atas karya dan dedikasi Rizky Darmawan. “Karya ini bentuk persembahan dan dedikasi saya untuk JNE, saya tidak merasa terbebani mengerjakannya, saya hanya ingin ilmu yang saya dapatkan dan pelajari dapat bermanfaat untuk orang banyak” tambah Rizky.
+
+PR besar yang akan menjadi karya kembali sedang digarapnya bersama Team IT Medan, seperti Aplikasi _Sales Management_, Sistem Aplikasi _Talent Management_ HC, _Dasboard Monitoring_ KPI Harian Cabang Utama, Sistem _Monitoring Asset Maintainance_. Aplikasi-aplikasi tersebut akan menjadi karya besarnya di tahun 2021 mendatang yang akan bermanfaat untuk JNE Cabang Utama Medan khususnya, dan semoga bisa diaplikasikan untuk JNE Nasional.
