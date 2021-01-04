@@ -24,3 +24,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- content/ijazah-sd-tak-di-tangan-tapi-kerap-dapat-penghargaan.md
