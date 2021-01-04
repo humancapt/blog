@@ -1,15 +1,14 @@
 +++
 categories = ["inspiration"]
 date = 2020-10-01T15:00:00Z
+draft = true
 tags = ["inspiration", "motivation"]
 title = "Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan"
 
 +++
-# Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan
-
-##### Oleh HC JNE Medan 
-
 ![](/uploads/img-20200923-wa0029-1.jpg)
+
+##### _Oleh HC JNE Medan_
 
 _“JNE Cabang Lubuk Pakam menjadi cabang yang sangat baik dari segi manajemen keuangan, operasional, dan sales. Sistem di-manage dengan baik, dan orang tidak akan menyangka jika pimpinannya hanya seorang yang tidak punya ijazah SD”._
 
