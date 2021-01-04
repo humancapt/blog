@@ -7,8 +7,9 @@ title = "Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan"
 +++
 # Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan
 
-##### Oleh HC JNE Medan [  
-![](/uploads/img-20200923-wa0029-1.jpg)]()
+##### Oleh HC JNE Medan 
+
+![](/uploads/img-20200923-wa0029-1.jpg)
 
 _“JNE Cabang Lubuk Pakam menjadi cabang yang sangat baik dari segi manajemen keuangan, operasional, dan sales. Sistem di-manage dengan baik, dan orang tidak akan menyangka jika pimpinannya hanya seorang yang tidak punya ijazah SD”._
 
@@ -18,7 +19,7 @@ Upaya keras dalam mengemban amanah pelanggan dengan maksimal membuat JNE Cabang 
 
 Pencapaian JNE Cabang Lubuk Pakam hingga sekarang, tidak lepas dari kepiawaian pimpinannya yaitu Derizon. Kalau di awal-awal ketika Derizon menjadi pemilik JNE Cabang Lubuk Pakam omzet per bulannya hanya sekitar 3 juta rupiah, kini omzetnya telah mencapai lebih dari setengah miliar rupiah per bulan.
 
-Di balik kesuksesan Derizon dalam mengembangkan JNE Cabang Lubuk Pakam, terdapat kisah hidup yang inspiratif sehingga Ia bisa menjadi seperti sekarang. Derizon yang lahir di Kabupaten Tanjung Jabung Timur, Kec Muara sabak, Desa Lambur, Jambi pada 12 Juni 1980, merupakan anak ke 4 dari 8 bersaudara. Kondisi ekonomi keluarganya serba sulit, dimana sang Ayah bekerja serabutan. 
+Di balik kesuksesan Derizon dalam mengembangkan JNE Cabang Lubuk Pakam, terdapat kisah hidup yang inspiratif sehingga Ia bisa menjadi seperti sekarang. Derizon yang lahir di Kabupaten Tanjung Jabung Timur, Kec Muara sabak, Desa Lambur, Jambi pada 12 Juni 1980, merupakan anak ke 4 dari 8 bersaudara. Kondisi ekonomi keluarganya serba sulit, dimana sang Ayah bekerja serabutan.
 
 Ijazah SD Tak Tertebus karena Untuk Makan Pun Sulit
 
