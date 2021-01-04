@@ -4,7 +4,7 @@ title                   = "Human Capital Blog"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "G-9TG9JCHFMV"
 pluralizeListTitles     = false
 disableLanguages        = []
 
