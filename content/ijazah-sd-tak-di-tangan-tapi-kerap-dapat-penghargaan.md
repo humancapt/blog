@@ -1,6 +1,7 @@
 +++
 categories = ["inspiration"]
 date = 2020-10-01T15:00:00Z
+draft = true
 tags = ["inspiration", "motivation"]
 title = "Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan"
 
