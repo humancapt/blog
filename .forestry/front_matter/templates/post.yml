@@ -24,13 +24,3 @@ fields:
   type: tag_list
   default: []
   label: Categories
-pages:
-- content/ijazah-sd-tak-di-tangan-tapi-kerap-dapat-penghargaan.md
-- content/inspirasi-kurir-teladan-beli-scanner-barcode-untuk-percepat-proses-kiriman.md
-- content/jne-medan-adakan-turnamen-tenis-meja-di-tengah-pandemik-semangat-dan-antusias-olahraga-meningkat.md
-- content/komunitas-jne-bike-sumut-gowes-rutinitas-kerja-totalitas.md
-- content/semangat-belajar-hidroponik-tak-terhenti-walau-di-tengah-pandemi.md
-- content/semangat-belajar-rizky-darmawan-persembahkan-aplikasi-antrian-counter-dan-sistem-informasi-network-untuk-jne-cabang-utama-medan.md
-- content/serunya-budikdamber-bagi-karyawan-jne-medan.md
-- content/slamet-widodo-baktikan-diri-untuk-anak-anak-yatim.md
-- content/trabas-perdana-jne-medan-trail-community.md
