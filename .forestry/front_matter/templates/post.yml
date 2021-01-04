@@ -24,3 +24,5 @@ fields:
   type: tag_list
   default: []
   label: Categories
+pages:
+- content/posts/slamet-widodo-baktikan-diri-untuk-anak-anak-yatim.md
