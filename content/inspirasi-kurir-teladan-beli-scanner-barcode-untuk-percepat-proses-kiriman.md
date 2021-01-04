@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["inspiration"]
 date = 2020-12-29T14:00:00Z
-tags = ["inspiration"]
+tags = ["inspiration", "motivation"]
 title = "Inspirasi Kurir Teladan Beli Scanner Barcode untuk Percepat Proses Kiriman"
 
 +++
