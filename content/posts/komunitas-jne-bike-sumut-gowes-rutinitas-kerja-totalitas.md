@@ -3,9 +3,8 @@ categories = ["community"]
 date = 2020-11-07T14:00:00Z
 tags = ["community", " motivation", "program"]
 title = "Komunitas JNE Bike Sumut : Gowes Rutinitas, Kerja Totalitas!"
-
+image = "/cover/jne-bike.jpg"
 +++
-![](/uploads/img-20201027-wa0062.jpg)
 
 _oleh: Tiara Ningtias, HC JNE MES_ 
 

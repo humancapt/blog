@@ -3,9 +3,8 @@ categories = ["community"]
 date = 2020-11-06T17:00:00Z
 tags = ["program", "inspiration", "motivation", "community"]
 title = "Serunya Budikdamber bagi Karyawan JNE Medan"
-
+image = "/cover/budidaya.jpeg"
 +++
-![](/uploads/dsc07455.JPG)
 
 _oleh: Tiara Ningtias, HC JNE MES_
 

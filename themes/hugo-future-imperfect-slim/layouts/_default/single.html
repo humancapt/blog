@@ -6,6 +6,7 @@
     </div>
     <div class="content">
       {{ .Render "featured" }}
+      <img src='{{ if eq .Params.Image "" }}{{else}}{{ .Params.Image}}{{end}}' style="max-width: 100%;"/>
       {{ .Content }}
     </div>
     <footer>

@@ -4,8 +4,9 @@ date = 2021-01-03T17:00:00Z
 tags = ["inspiration", "motivation", "program", "skill"]
 title = "Semangat Belajar Rizky Darmawan,  Persembahkan Aplikasi Antrian Counter dan Sistem Informasi Network untuk JNE Cabang Utama Medan"
 
+image = "/cover/rizky-darmawan.jpeg"
+
 +++
-![](/uploads/whatsapp-image-2020-11-18-at-09-37-33.jpeg)
 
 _Oleh : Tiara Ningtias, HC JNE MES_ 
 

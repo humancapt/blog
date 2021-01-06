@@ -3,10 +3,8 @@ categories = ["inspiration"]
 date = 2020-12-29T14:00:00Z
 tags = ["inspiration", "motivation"]
 title = "Inspirasi Kurir Teladan Beli Scanner Barcode untuk Percepat Proses Kiriman"
-
+image = "/cover/annas.jpeg"
 +++
-  
-![](/uploads/whatsapp-image-2020-12-23-at-09-01-41.jpeg)
 
 _Oleh: Tiara Ningtias, HC JNE MES_ 
 

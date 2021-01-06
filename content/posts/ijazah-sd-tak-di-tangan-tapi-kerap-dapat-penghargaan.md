@@ -3,9 +3,8 @@ categories = ["inspiration"]
 date = 2020-10-01T15:00:00Z
 tags = ["inspiration", "motivation"]
 title = "Ijazah SD Tak Di Tangan Tapi Kerap Dapat Penghargaan"
-
+image = "/cover/pak deri.jpg"
 +++
-![](/uploads/img-20200923-wa0029-1.jpg)
 
 ##### _Oleh HC JNE Medan_
 

@@ -3,9 +3,8 @@ categories = ["program"]
 date = 2020-11-16T17:00:00Z
 tags = ["program", "community", "motivation"]
 title = "JNE Medan Adakan Turnamen Tenis Meja di Tengah Pandemik  Semangat dan Antusias Olahraga Meningkat."
-
+image = "/cover/tenis-meja.jpeg"
 +++
-![](/uploads/whatsapp-image-2020-11-12-at-19-36-14.jpeg)
 
 _Oleh : Tiara Ningtias, HC JNE MES_ 
 

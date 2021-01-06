@@ -2,8 +2,9 @@
   {{ .Render "header" }}
   <div class="content">
     {{ .Render "featured" }}
-    {{ $.Scratch.Set "summary" ((delimit (findRE "<p.*?>(.|\n)*?</p>" .Content 1) "") | truncate (default 500 .Site.Params.summary_length) (default "&hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
-    {{ $.Scratch.Get "summary" }}
+    <img src='{{ if eq .Params.Image "" }}{{else}}{{ .Params.Image}}{{end}}' style="max-width: 100%;"/>
+    <!-- {{ $.Scratch.Set "summary" ((delimit (findRE "<p.*?>(.|\n)*?</p>" .Content 1) "") | truncate (default 500 .Site.Params.summary_length) (default "&hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+    {{ $.Scratch.Get "summary" }} -->
   </div>
   <footer>
     <a href="{{ .RelPermalink }}" class="button big">{{ i18n "read_more" }}</a>

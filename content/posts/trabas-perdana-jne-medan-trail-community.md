@@ -3,9 +3,8 @@ categories = ["community"]
 date = 2020-10-29T17:00:00Z
 tags = ["community", "program"]
 title = "TRABAS PERDANA JNE MEDAN TRAIL COMMUNITY"
-
+image = "/cover/whatsapp-image-2020-10-30-at-08-39-50.jpeg"
 +++
-![](/uploads/whatsapp-image-2020-10-30-at-08-39-50.jpeg)
 
 Oleh: Fikri Al Haq Fachryana
 

@@ -3,9 +3,8 @@ categories = ["community"]
 date = 2020-11-08T14:00:00Z
 tags = ["community", "program", "inspiration", "motivation"]
 title = "Semangat Belajar Hidroponik Tak Terhenti walau di Tengah Pandemi"
-
+image = "/cover/hidroponik.jpg"
 +++
-![](/uploads/fix-dharma-wanita-jne-mes.jpg)
 
 _oleh : Tiara Ningtias, HC JNE MES_ 
 

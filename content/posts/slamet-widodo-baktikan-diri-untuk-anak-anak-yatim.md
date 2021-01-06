@@ -3,9 +3,8 @@ categories = ["inspiration"]
 date = 2020-12-29T02:46:00Z
 tags = ["inspiration", "motivation", "program", "community"]
 title = "Slamet Widodo Baktikan diri untuk Anak-Anak Yatim"
-
+image = "/cover/slamet-widodo-ok-1.jpeg"
 +++
-![](/uploads/slamet-widodo-ok-1.jpeg)
 
 ##### _oleh : Tiara Ningtias, HC JNE Mes_
 
