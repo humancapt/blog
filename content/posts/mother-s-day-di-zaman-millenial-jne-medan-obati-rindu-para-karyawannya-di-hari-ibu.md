@@ -1,6 +1,7 @@
 +++
 categories = ["program"]
-date = 2021-01-07T17:00:00Z
+date = 2021-01-08T07:00:00Z
+draft = true
 image = "/uploads/whatsapp-image-2020-12-31-at-12-44-28.jpeg"
 tags = ["program", "inspiration", "motivation", "quotes"]
 title = "Mother’s Day di Zaman Millenial, JNE Medan Obati Rindu Para Karyawannya di Hari Ibu."
