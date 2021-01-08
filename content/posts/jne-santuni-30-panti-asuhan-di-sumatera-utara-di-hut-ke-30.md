@@ -24,13 +24,13 @@ Dari 30 panti asuhan yang terdiri dari 18 panti asuhan di luar Medan dan 12 pant
 
 “Pendapatan yang diterima JNE, ada sebagian yang menjadi hak mereka, anak-anak yatim piatu. Ini adalah bentuk rasa syukur kami, ksatria dan srikandi JNE Sumatera Utara. Semoga kegiatan-kegiatan sosial sebagai bentuk kepdulian ini mampu membawa keberkahan bagi bisnis JNE”, terang Fikri.
 
-![](/uploads/the-winner-video-s-challenge-jne-30-th-1.jpg)
-
 Untuk wilayah Kota Medan penyerahan donasi dimulai dari Panti Asuhan Yatim Takaful, berlanjut ke Panti Asuhan Ade Irma Suryani Nasution, Jamiyatul Washliyah, Sinar Indah Cahaya Bersama, Puteri Aisyiyah, Zending Islam, Putra Muhammadiyah, Al jamiyatul Washliyah, Karya Murni, Getsamane Kasih, Terimakasih Abadi, dan ditutup dengan panti Asuhan Talenta Delpita.
 
 Ujang, pimpinan Panti Asuhan Yatum Tafakul, salah satu penerima donasi, mengucapkan syukur dan terimakasih kepada JNE. “Semoga segala bentuk bantuan yang diberikan JNE dapat menjadi berkah untuk JNE dan seluruh karyawannya, tuturnya.
 
 Selain kegiatan sosial, rangkaian perayaan HUT JNE ke 30 di Medan juga dimeriahkan dengan berbagai lomba untuk karyawan. Kompetisi tersebut, seperti lomba tenis meja dan _video challenge_ bahagia bersama di setiap unit kerja dan keluarganya.
+
+![](/uploads/the-winner-video-s-challenge-jne-30-th-1.jpg)
 
 Untuk masyarakat pun JNE mengadakan giveaway JNE Tebak Kata di media sosial. Hadiah utama disiapkan, yaitu sepeda lipat dan undian nomor resi khusus member JLC (JNE Loyalty Card) dengan total nilai hadiahnya puluhan juta rupiah.
 
