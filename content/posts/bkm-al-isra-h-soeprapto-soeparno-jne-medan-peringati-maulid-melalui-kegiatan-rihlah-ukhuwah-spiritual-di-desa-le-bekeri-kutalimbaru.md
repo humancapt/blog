@@ -1,6 +1,6 @@
 +++
 categories = ["community"]
-date = 2020-10-29T22:00:00Z
+date = 2021-01-07T22:00:00Z
 image = "/uploads/whatsapp-image-2020-10-30-at-13-11-48-1.jpeg"
 tags = ["community", "program", "motivation"]
 title = "BKM AL ISRA’ H SOEPRAPTO SOEPARNO JNE MEDAN PERINGATI MAULID MELALUI KEGIATAN RIHLAH UKHUWAH SPIRITUAL DI DESA LE BEKERI KUTALIMBARU"
