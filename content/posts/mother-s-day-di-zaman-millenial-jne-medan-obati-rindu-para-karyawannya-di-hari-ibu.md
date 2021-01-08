@@ -1,13 +1,12 @@
 +++
 categories = ["program"]
 date = 2021-01-08T07:00:00Z
-draft = true
 image = "/uploads/whatsapp-image-2020-12-31-at-12-44-28.jpeg"
 tags = ["program", "inspiration", "motivation", "quotes"]
 title = "Mother’s Day di Zaman Millenial, JNE Medan Obati Rindu Para Karyawannya di Hari Ibu."
 
 +++
-_![](/uploads/whatsapp-image-2020-12-28-at-13-28-11.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-15-1.jpeg)Oleh : Tiara Ningtias, HC JNE MES_
+_Oleh : Tiara Ningtias, HC JNE MES_
 
 _Peringatan hari ibu yang jatuh pada 22 desember sering kali dimaknai masyarakat khususnya kaum milenial sebagai mother’s day. Beragam nilai dapat dimaknai dalam memperingati hari ibu, mulai dari nlai perjuangan, penghargaan hingga kenangan yang kemudian diwujudkan melalui aktifiitas-aktifiitas yang berkualitas bersama ibu. Sejarahnya, memperingati hari ibu juga merupakan salah satu upaya bangsa untuk mengenang dan menghargai perjuangan para perempuan Indonesia dalam merebut dan mengisi kemerdekaan yang kemudian pergerakan itu di sahkan pada tahun 1935 melalui Kongres Wanita Indonesia (KOWANI)._
 
@@ -30,3 +29,5 @@ Pengumuman foto dan _caption_ terbaik serta pemberian hadiah dilakukan pada saat
 Para peserta merasa senang dan semangat karena bisa memberi hadiah untuk ibu masing-masing, karyawan yang lain juga tentunya merasa semangat untuk mengikuti kegiatan-kegiatan dan challenge yang akan dibuat berikutnya oleh management. “Selain hadiah, kasih sayang, perhatiaan dan kepedulian, tentu yang tak kalah penting adalah doa yang tidak pernah putus untuk mendoakan kesehatan dan keberkahan usia ibu, karena seorang ibu juga tidak pernah putus dalam mendoakan keberhasilan dan keselamatan anak-anaknya”, ungkap salah satu staff Human Capital JNE MES kepada para karyawan.
 
 ![](/uploads/whatsapp-image-2020-12-28-at-13-28-07.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-08.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-09-1.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-09.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-10-1.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-10-2.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-10.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-15-1.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-11.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-15.jpeg)
+
+![](/uploads/whatsapp-image-2020-12-28-at-13-28-15-1.jpeg)![](/uploads/whatsapp-image-2020-12-28-at-13-28-11.jpeg)
