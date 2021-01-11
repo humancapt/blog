@@ -1,7 +1,7 @@
 +++
 categories = ["community"]
 date = 2021-01-08T17:00:00Z
-image = "/uploads/untitled-design-9.jpg"
+image = "/uploads/coach-1.jpg"
 tags = ["skill", "community", "motivation", "inspiration"]
 title = "ON MIClub JNE Medan Jawab Kebutuhan Kompetensi Karyawan JNE Cabang Utama Medan "
 
