@@ -1,7 +1,7 @@
 +++
 categories = ["inspiration"]
 date = 2021-01-26T03:00:00Z
-image = "/uploads/fahrurozi.jpg"
+image = "/uploads/untitled-design-8.jpg"
 tags = ["motivation", "inspiration", "program"]
 title = "Inspirasi Diet Sehat Karyawan JNE MEDAN "
 
