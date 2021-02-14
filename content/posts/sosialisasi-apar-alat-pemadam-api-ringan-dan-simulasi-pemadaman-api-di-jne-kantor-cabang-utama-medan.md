@@ -1,5 +1,5 @@
 +++
-categories = ["skill"]
+categories = ["program"]
 date = 2021-02-13T21:00:00Z
 image = "/uploads/0267d34f-d2f6-494d-831a-43009a5373f2.jpeg"
 tags = ["program", "skil"]
