@@ -1,7 +1,7 @@
 +++
 categories = ["human-quotes"]
 date = 2021-03-09T17:00:00Z
-image = "/uploads/quotes-2.jpg"
+image = "/uploads/quotes-3.jpg"
 tags = ["motivation", "quotes", "inspiration"]
 title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Medan"
 
@@ -26,6 +26,6 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Medan"
 
 > "Tidak perlu menjadi besar atau kecil, cukup menjadi bersinar agar anda terlihat" @M Arif Taufik
 
-![](/uploads/presentation5.jpg)
+![](/uploads/q-5.jpg)
 
 > "Saat dunia tak menganggap kebaikanmu, tetaplah berbuat baik. Karena pada akhirnya bukan antara dirimu dengan mereka, tapi dirimu dengan tuhan" @M Arif Taufik
