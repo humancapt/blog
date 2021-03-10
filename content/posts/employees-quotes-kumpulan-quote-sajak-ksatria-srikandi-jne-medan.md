@@ -1,5 +1,5 @@
 +++
-categories = ["quotes"]
+categories = ["human-quotes"]
 date = 2021-03-09T17:00:00Z
 image = "/uploads/quotes-2.jpg"
 tags = ["motivation", "quotes", "inspiration"]
