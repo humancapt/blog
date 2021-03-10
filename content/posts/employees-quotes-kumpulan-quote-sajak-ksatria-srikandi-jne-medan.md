@@ -21,3 +21,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Medan"
 ![](/uploads/presentation4.jpg)
 
 > "Memancing mengajarkan kita dalam mencapai hasil" @M Yusuf Saputra
+
+![](/uploads/presentation-3.jpg)
+
+> "Tidak perlu menjadi besar atau kecil, cukup menjadi bersinar agar anda terlihat" @M Arif Taufik
