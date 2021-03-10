@@ -13,3 +13,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Medan"
 ![](/uploads/presentation1.jpg)
 
 > "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik 
+
+![](/uploads/presentation2.jpg)
+
+> "Hidup boleh mengalir begitu saja, asal tau akhir tujuan alirannya. Jika akhirnya ke comberan, sebaiknya jangan!" @M Arif Taufik 
