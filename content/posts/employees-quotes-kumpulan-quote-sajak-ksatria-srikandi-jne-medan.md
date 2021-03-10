@@ -20,7 +20,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 ![](/uploads/presentation4.jpg)
 
-> "Memancing mengajarkan kita dalam mencapai hasil" @M Yusuf Saputra
+> "Memancing mengajarkan kita bersabar dalam mencapai hasil" @M Yusuf Saputra
 
 ![](/uploads/presentation-3.jpg)
 
