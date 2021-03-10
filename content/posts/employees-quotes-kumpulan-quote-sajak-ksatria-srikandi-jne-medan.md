@@ -17,3 +17,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Medan"
 ![](/uploads/presentation2.jpg)
 
 > "Hidup boleh mengalir begitu saja, asal tau akhir tujuan alirannya. Jika akhirnya ke comberan, sebaiknya jangan!" @M Arif Taufik 
+
+![](/uploads/presentation4.jpg)
+
+> "Memancing mengajarkan kita dalam mencapai hasil" @M Yusuf Saputra
