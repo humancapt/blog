@@ -12,11 +12,11 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 ![](/uploads/presentation1.jpg)
 
-> "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik 
+> "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik
 
 ![](/uploads/presentation2.jpg)
 
-> "Hidup boleh mengalir begitu saja, asal tau akhir tujuan alirannya. Jika akhirnya ke comberan, sebaiknya jangan!" @M Arif Taufik 
+> "Hidup boleh mengalir begitu saja, asal tau akhir tujuan alirannya. Jika akhirnya ke comberan, sebaiknya jangan!" @M Arif Taufik
 
 ![](/uploads/presentation4.jpg)
 
@@ -29,3 +29,23 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 ![](/uploads/q-5.jpg)
 
 > "Saat dunia tak menganggap kebaikanmu, tetaplah berbuat baik. Karena pada akhirnya bukan antara dirimu dengan mereka, tapi dirimu dengan tuhan" @M Arif Taufik
+
+![](/uploads/slide1.JPG)
+
+> "Bukti bahwa hidupmu bahagia adalah ketika engkau pulang dan engkau dirindukan" @Aulia Ikhsan
+
+![](/uploads/slide2.JPG)
+
+> "Tidak perlu memaksakan orang lain untuk senang dengan diri kita, biarkan rasa senang itu muncul ketika kita tulus menunjukkan kebaikan hati kita" @Suryaningsih Ekasari
+
+![](/uploads/slide3.JPG)
+
+> "Akulah manusia yang lemah itu, Sekedar mengucap syukurpun aku tidak mampu, aku lalai bahkan lupa. Padahal Tuhan sudah memberikan Kehidupan yang begitu sempurna." @Deni Zulfandi
+
+![](/uploads/slide4.JPG)
+
+> "Ada orang tua yang harus dibahagiakan. sekarang, sainganku bukanlah teman, bukan rekan kerja, bukan pula orang lain. Tapi waktu dan sisa umur orang tua." @Deni Zulfandi
+
+![](/uploads/slide5.JPG)
+
+> "Terkadang kita harus mengalah walaupun kita sedang berada di jalan yang benar." @Daman Huri (Batubara)
