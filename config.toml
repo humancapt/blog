@@ -1,140 +1,114 @@
-baseurl                 = ""
-DefaultContentLanguage  = "en"
-title                   = "Human Capital Blog"
-theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
-disqusShortname         = ""
-googleAnalytics         = "G-9TG9JCHFMV"
-pluralizeListTitles     = false
-disableLanguages        = []
-
-[markup.goldmark.renderer]
-    unsafe                = true
-
-[outputs]
-    home                  = ["html", "json"]
-
-[params]
-    enableCDN             = false
-    cssFiles              = ["default"]
-    jsFiles               = ["default"]
-    highlightjs           = true
-    highlightjsTheme      = "default"
-    highlightjsLang       = []
-    viewMorePostsLink     = "/blog/"
-    readingTime           = true
-    imageStrech           = "horizontal"
-    socialShare           = ["twitter", "facebook", "linkedin", "email"]
-
-[params.header]
-	navbarTitle         = "HumanCapt"
-	dynamicTitles       = true
-	searchMenu          = true
-	shareMenu           = true
-	languageMenu        = false
-
-[params.intro]
-	header                = "Human Capital Blog"
-	paragraph             = "Sharing, Inpiration, Performance, Tips."
-	rssIntro              = false
-	socialIntro           = true
-	hideWhenSingleColumn  = false
-	alwaysOnHomepage      = false
-
-[params.intro.pic]
-    src                 = "/img/main/logo.jpg"
-    shape               = "circle"
-    width               = ""
-    alt                 = "Human Capital Blog"
-
-[params.sidebar]
-    about               = "A company’s most valuable asset is its employees."
-    postAmount          = 5
-    categories          = true
-    categoriesByCount   = true
-
-[params.meta]
-	description         = "Sharing, Inpiration, Performance, Tips."
-	author              = "HumanCapt"
-	favicon             = false
-	svg                 = true
-	faviconVersion      = "1"
-	msColor             = "#ffffff"
-	iOSColor            = "#ffffff"
-
-[params.footer]
-    rssFooter           = false
-    socialFooter        = true
-
-[menu]
-
-	[[menu.main]]
-		name              = "Home"
-		identifier        = "home"
-		url               = "/"
-		pre               = "<i class='fa fa-home'></i>"
-		weight            = 1
-
-	[[menu.main]]
-		name              = "Inspiration"
-		identifier        = "inspiration"
-		url               = "/categories/inspiration/"
-		pre               = "<i class='fa fa-podcast'></i>"
-		weight            = 2
-
-	[[menu.main]]
-		name              = "Program"
-		identifier        = "program"
-		url               = "/categories/program/"
-		pre               = "<i class='fa fa-puzzle-piece'></i>"
-		weight            = 3
-
-	[[menu.main]]
-		name              = "Quotes"
-		identifier        = "quotes"
-		url               = "/categories/human-quotes/"
-		pre               = "<i class='fa fa-volume-up'></i>"
-		weight            = 4
-
-	[[menu.main]]
-		name              = "Motivation"
-		identifier        = "motivation"
-		url               = "/categories/motivation/"
-		pre               = "<i class='fa fa-street-view'></i>"
-		weight            = 5
-
-	[[menu.main]]
-		name              = "Community"
-		identifier        = "community"
-		url               = "/categories/community/"
-		pre               = "<i class='fa fa-users'></i>"
-		weight            = 6
-
-	[[menu.main]]
-		name              = "Skill"
-		identifier        = "skill"
-		url               = "/categories/skill/"
-		pre               = "<i class='fa fa-wrench'></i>"
-		weight            = 7
-
-	[[menu.main]]
-		name              = "Regulation"
-		identifier        = "regulation"
-		url               = "/categories/regulation/"
-		pre               = "<i class='fa fa-clipboard'></i>"
-		weight            = 8
-
-[Languages]
-
-	[Languages.en]
-		LanguageCode        = "en"
-		LanguageName        = "English"
-		weight              = 1
-
-[social]
-	# Coding Communities
-    youtube               = "channel/UCZ0xLH_STXMbOJmMC6Zo7aw"
-
+DefaultContentLanguage = "en"
+baseurl = ""
+disableLanguages = []
+disqusShortname = ""
+googleAnalytics = "G-9TG9JCHFMV"
+paginate = 3
+pluralizeListTitles = false
+theme = "hugo-future-imperfect-slim"
+title = "Human Capital Blog"
+[Languages.en]
+LanguageCode = "en"
+LanguageName = "English"
+weight = 1
 [context.production.environment]
-    HUGO_VERSION = "0.79.1"
-
+HUGO_VERSION = "0.79.1"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+identifier = "regulation"
+name = "Regulation"
+pre = "<i class='fa fa-clipboard'></i>"
+url = "/categories/regulation/"
+weight = 8
+[[menu.main]]
+identifier = "skill"
+name = "Skill"
+pre = "<i class='fa fa-wrench'></i>"
+url = "/categories/skill/"
+weight = 7
+[[menu.main]]
+identifier = "community"
+name = "Community"
+pre = "<i class='fa fa-users'></i>"
+url = "/categories/community/"
+weight = 6
+[[menu.main]]
+identifier = "motivation"
+name = "Motivation"
+pre = "<i class='fa fa-street-view'></i>"
+url = "/categories/motivation/"
+weight = 5
+[[menu.main]]
+identifier = "quotes"
+name = "Quotes"
+pre = "<i class='fa fa-volume-up'></i>"
+url = "/categories/human-quotes/"
+weight = 4
+[[menu.main]]
+identifier = "program"
+name = "Program"
+pre = "<i class='fa fa-puzzle-piece'></i>"
+url = "/categories/program/"
+weight = 3
+[[menu.main]]
+identifier = "inspiration"
+name = "Inspiration"
+pre = "<i class='fa fa-podcast'></i>"
+url = "/categories/inspiration/"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+pre = "<i class='fa fa-home'></i>"
+url = "/"
+weight = 1
+[outputs]
+home = ["html", "json"]
+[params]
+cssFiles = ["default"]
+enableCDN = false
+highlightjs = true
+highlightjsLang = []
+highlightjsTheme = "default"
+imageStrech = "horizontal"
+jsFiles = ["default"]
+readingTime = true
+socialShare = ["twitter", "facebook", "linkedin", "email"]
+viewMorePostsLink = "/blog/"
+[params.footer]
+rssFooter = false
+socialFooter = true
+[params.header]
+dynamicTitles = true
+languageMenu = false
+navbarTitle = "HumanCapt"
+searchMenu = true
+shareMenu = true
+[params.intro]
+alwaysOnHomepage = false
+header = "Human Capital Blog"
+hideWhenSingleColumn = false
+paragraph = "Sharing, Inpiration, Performance, Tips."
+rssIntro = false
+socialIntro = true
+[params.intro.pic]
+alt = "Human Capital Blog"
+shape = "circle"
+src = "/img/main/logo.jpg"
+width = ""
+[params.meta]
+author = "HumanCapt"
+description = "Sharing, Inpiration, Performance, Tips."
+favicon = false
+faviconVersion = "1"
+iOSColor = "#ffffff"
+msColor = "#ffffff"
+svg = true
+[params.sidebar]
+about = "A company’s most valuable asset is its employees."
+categories = true
+categoriesByCount = true
+postAmount = 5
+[social]
+youtube = "channel/UCZ0xLH_STXMbOJmMC6Zo7aw"
