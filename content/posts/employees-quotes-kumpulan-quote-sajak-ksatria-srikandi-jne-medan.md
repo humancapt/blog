@@ -49,3 +49,15 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 ![](/uploads/slide5.JPG)
 
 > "Terkadang kita harus mengalah walaupun kita sedang berada di jalan yang benar." @Daman Huri (Batubara)
+
+![](/uploads/e16237f0-8c93-4d6d-8ac8-25da570e8628.jpg)
+
+> "Ibarat seorang pendaki gunung, ia akan merasa senang ketika melihat tanjakan di depan, sebab ia tau bahwa setelah tanjakan pasti ada turunan. Begitu juga dengan masalah, setelah semua hambatan dan rintangan itu berlalu pasti ada hikmah dan pelajaran yang kita dapatkan." #AGT @Abdu Ghafur Tanjung
+
+![](/uploads/6d45401e-563c-4dd0-87cf-10a73e7a6819.jpg)
+
+> "Biarkan mereka yang meremehkan kemampuan mu. Tapi jangan sampai kau yang meremehkan dirimu sendiri." @Yudi Sumantri
+
+![](/uploads/d1a2ff44-842b-4864-afa9-9c6c9768991d.jpg)
+
+> "kalau gagal bangkit lagi sampai kamu merasa bahwa gagal adalah tangga menuju bahagia." @Sofie Amalya
