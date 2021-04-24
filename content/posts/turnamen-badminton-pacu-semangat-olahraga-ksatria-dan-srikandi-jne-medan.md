@@ -1,8 +1,8 @@
 +++
-categories = []
-date = ""
+categories = ["community"]
+date = 2021-04-23T17:00:00Z
 image = "/uploads/whatsapp-image-2021-04-24-at-10-45-31.jpeg"
-tags = []
+tags = ["community", " skill", "program"]
 title = "TURNAMEN BADMINTON PACU SEMANGAT OLAHRAGA KSATRIA DAN SRIKANDI JNE MEDAN "
 
 +++
