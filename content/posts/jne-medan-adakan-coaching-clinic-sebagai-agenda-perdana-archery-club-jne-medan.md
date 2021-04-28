@@ -1,6 +1,7 @@
 +++
 categories = ["community"]
 date = 2021-04-27T10:00:00Z
+draft = true
 image = "/uploads/whatsapp-image-2021-04-02-at-15-51-13-1.jpeg"
 tags = ["community", "skill", "inspiration", "program"]
 title = "JNE MEDAN ADAKAN COACHING CLINIC SEBAGAI AGENDA PERDANA ARCHERY CLUB JNE MEDAN"
