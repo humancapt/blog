@@ -61,3 +61,43 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 ![](/uploads/d1a2ff44-842b-4864-afa9-9c6c9768991d.jpg)
 
 > "kalau gagal bangkit lagi sampai kamu merasa bahwa gagal adalah tangga menuju bahagia." @Sofie Amalya
+
+![](/uploads/1-1.jpg)
+
+> "Lagi-lagi ketika dihadapan dengan ketidakidealan dunia, masalah yang datang bagai kejutan tak terduga. Sebagai pengingat, bahwa Allah yang berkuasa, agar kita tak lupa, selain usaha berserah juga kunci bertahan di dunia" @Deni Zulfandi
+
+![](/uploads/2-2.jpg)
+
+> "Tatkala kudatangi sebuah cermin, tampaklah sosok manusia yang sudah sangat lama bersamaku, dan sangat sering ku lihat.
+>
+> Namun aneh, sesungguhnya aku belum mengenal siapa yang ku lihat." #edisibelummengenalbakatdanjatidiri
+>
+> @M. Arif Taufik
+
+![](/uploads/3-3.jpg)
+
+> "Kita satu sama lain unik, tak perlu merasa rendah, tak perlu melihat kiri dan kanan, cukup temukan dirimu sendiri dan berbahagialah" @Deni Zulfandi
+
+![](/uploads/4-4.jpg)
+
+> "Bukan melupakan yang jadi masalah, tetapi menerimanya, barang siapa yang bisa menerimanya maka dia akan bisa melupakan, lalu hidup bahagia. Namun sebaliknya jika dia tidak bisa menerima maka dia tidak akan pernah bisa melupakan. Merangkul rasa sakit mempermudah diri untuk ikhlas. Menerima segala hal dengan terus bersyukur" @aulia_ikhsan.
+
+![](/uploads/5-5.jpg)
+
+> "Bahagia itu sederhana, tetapi banyak orang yang membuat bahagia itu menjadi sulit. Melihat orang yang kita sayang tersenyum sudah menjadi hal kecil dari kebahagiaan. Connecting happiness" @Ilham Syahputra
+
+![](/uploads/6-6.jpg)
+
+> "\~WANITA\~  
+> WANITA, makhluk indah penenang jiwa. 
+>
+> berbicara merdu meski tak selalu terdengar syahdu. bimana lebih memprioritaskan rasa daripada logika. yang selalu ingin diperhatikan bukan diabaikan.   
+>    
+> WANITA, makhluk hebat dengan sejuta kekaguman. ingin terus diutamakan tanpa mau diduakan.   
+> tidak perlu janji hanya butuh bukti.  
+> tidak perlu harapan tanpa adanya kepastian kepastian. 
+>
+> WANITA, makhluk lembut penuh ketulusan, rupa elok dengan kesederhanaanya yang berbalut sejuta kesempurnaan. kebaikannya
+>
+> dapat menembus nirwana. hingga malaikat iri akan dirinya."  
+> @akhsan #sajak_introvert
