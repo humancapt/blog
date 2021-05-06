@@ -1,6 +1,6 @@
 +++
 categories = ["human-quotes"]
-date = 2021-03-09T17:00:00Z
+date = 2021-05-05T17:00:00Z
 image = "/uploads/joni-quots.jpeg"
 tags = ["motivation", "quotes", "inspiration"]
 title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
@@ -20,7 +20,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 ![](/uploads/presentation4.jpg)
 
-> "Memancing mengajarkan kita bersabar dalam mencapai hasil" @M Yusuf Saputra
+> "Memancing mengajarkan kita bersabar dalam mencapai hasil" @M Yusuf Saputra.
 
 ![](/uploads/presentation-3.jpg)
 
