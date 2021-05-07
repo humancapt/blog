@@ -89,13 +89,13 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 ![](/uploads/6-6.jpg)
 
 > "\~WANITA\~  
-> WANITA, makhluk indah penenang jiwa. 
+> WANITA, makhluk indah penenang jiwa.
 >
-> berbicara merdu meski tak selalu terdengar syahdu. bimana lebih memprioritaskan rasa daripada logika. yang selalu ingin diperhatikan bukan diabaikan.   
->    
-> WANITA, makhluk hebat dengan sejuta kekaguman. ingin terus diutamakan tanpa mau diduakan.   
+> berbicara merdu meski tak selalu terdengar syahdu. bimana lebih memprioritaskan rasa daripada logika. yang selalu ingin diperhatikan bukan diabaikan.
+>
+> WANITA, makhluk hebat dengan sejuta kekaguman. ingin terus diutamakan tanpa mau diduakan.  
 > tidak perlu janji hanya butuh bukti.  
-> tidak perlu harapan tanpa adanya kepastian kepastian. 
+> tidak perlu harapan tanpa adanya kepastian kepastian.
 >
 > WANITA, makhluk lembut penuh ketulusan, rupa elok dengan kesederhanaanya yang berbalut sejuta kesempurnaan. kebaikannya
 >
