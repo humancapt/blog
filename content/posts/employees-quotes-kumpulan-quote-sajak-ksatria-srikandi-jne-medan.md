@@ -1,7 +1,6 @@
 +++
 categories = ["human-quotes"]
 date = 2021-05-05T17:00:00Z
-draft = true
 image = "/uploads/joni-quots.jpeg"
 tags = ["motivation", "quotes", "inspiration"]
 title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
