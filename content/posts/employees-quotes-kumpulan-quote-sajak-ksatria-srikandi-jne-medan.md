@@ -10,8 +10,6 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 > "Pada dasarnya manusia tdak perlu menjelaskan siapa dirinya. Seperti matahari kepada bumi yang tidak pernah menjelaskan siapa dia dan apa fungsinya. Cukup sedikit kehangatan dan cahaya, maka bumi tau bahwa dialah sang Mentari." @Aulia Ikhsan.
 
-![](/uploads/presentation1.jpg)
-
 > "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik
 
 ![](/uploads/presentation2.jpg)
