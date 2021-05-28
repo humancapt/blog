@@ -12,7 +12,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 ![](/uploads/presentation1.jpg)
 
-> "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik
+> "Jika kita memandang benci pada orang lain, maka tidak ada kebaikan pada orang baik sekalipun." @M. Arif Taufik.
 
 ![](/uploads/presentation2.jpg)
 
