@@ -19,3 +19,5 @@ Komunitas Renang JNE Medan dibuka secara resmi oleh _HC Engagement_ tepat pukul 
 Meski terbilang sangat sulit untuk berkumpul, berolahraga bersama di tengah pemeberlakuan PPKM Darurat, komunitas renang tetap mengupayakan olahraga tetap berjalan dengan segala keterbatasan dan ketersediaan yang ada dengan memperhatikan prokes. Kedepannya juga komunitas ini akan mengagendakan renang dengan menyesuaikan shift kerja dan membagi menjadi beberapa sesi agar tidak menimbulkan kerumunan.
 
 “Goals-nya, kegiatan-kegiatan melalui komunitas di JNE Medan diharapkan mampu membangun hubungan yang erat antar karyawan sehingga terbangun kekompakan dan kesolidan yang akan mempengaruhi kinerja, lingkungan kerja, serta supportivitas antar karyawan, pungkas M. Arif Taufik, Human Capital JNE Medan.
+
+![](/uploads/whatsapp-image-2021-07-18-at-11-04-28.jpeg)
