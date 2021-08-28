@@ -18,6 +18,8 @@ Di malam hari setelah beberapa _rundown_ acara terlewati, kegiatan dilanjutkan d
 
 Pada kesempatan yang sama komunitas pecinta alam JNE Medan (KPA) juga mengadakan malam keakraban bersama para _member_ dalam rangka pra pengukuhan member komunitas KPA. Tanpa membuang waktu dan momen, JNE _Trail community_ dan KPA bergabung dalam menyalakan api unggun membangun keakraban bersama.
 
+![](/uploads/whatsapp-image-2021-08-19-at-12-18-49.jpeg)
+
 Disaksikan oleh para _member_ KPA JNE Medan, pengukuhan _member_ JNE _Trail Community_ berlangsung ketika subuh mulai tiba, diawali dengan sholat subuh berjamaah, tausiyah singkat olahraga dalam islam, kemudian pengukuhan secara resmi dengan memberikan nomor punggung dan pin tanda anggota. Pengukuhan dilakukan oleh Bapak Fikri Al Haq Fachryana (Kepala Cabang JNE Cabang Utama Medan) dan Sukma Rahadiani (_Head of human capital_ JNE Medan) sebagai penasehat komunitas _trail_ JNE Medan . “Sebagai komunitas _Trail_ kita memang harus lebih bermanfaat, berkontribusi untuk masyakarat dan lingkungan melalui kegiatan yang positif dengan benar-benar menjalankan nilai-nilai dasar JNE _trail community_ yaitu _brave_ (berani), _Measurable_ (terukur) dan _Presistence_ (semangat atau kegigihan)”, tambah Bapak Fikri Al Haq Fachryana.
 
 “Alhamdulillah yang pasti seru, seluruh _member_ sangat antusias, senang karena statusnya sekarang sudah resmi menjadi _member_ JNE _Trail Community_ dan mendapatkan nomor registrasi” tambah Rusdian Psrasetyo. Bagi komunitas _Trail_ JNE Medan pengkuhan dan diklat dasar menjadi hal yang penting untuk menjaga semangat dan mendorong para karyawan yang tergabung untuk terus berkreasi dan berkegiatan demi mempererat persatuan dan kesatuan antar _member_.
