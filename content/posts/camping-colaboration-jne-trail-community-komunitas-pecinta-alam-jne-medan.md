@@ -1,7 +1,7 @@
 +++
 categories = ["community"]
 date = 2021-08-15T17:00:00Z
-image = "/uploads/whatsapp-image-2021-07-31-at-09-58-50.jpeg"
+image = "/uploads/whatsapp-image-2021-08-19-at-12-18-49.jpeg"
 tags = ["community", "program", "inspiration", "skill"]
 title = "Camping Colaboration JNE Trail Community & Komunitas Pecinta Alam JNE Medan "
 
