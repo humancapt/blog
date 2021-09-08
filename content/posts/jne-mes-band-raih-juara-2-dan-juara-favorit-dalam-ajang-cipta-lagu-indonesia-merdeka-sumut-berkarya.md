@@ -20,4 +20,6 @@ Bagi beberapa personil waktu yang diberikan sangat singkat untuk menciptakan seb
 
 Lagu Bangkitlah Sumutku berhasil mendapatkan 4.553 _view_ dengan _like_ 885. Lewat penilaian mutlak dewan juri, karya JNE Mes _band_ meraih juara 2 dan panitia juga menyematkan JNE Mes _band_ sebagai pemenang favorit dengan _like_ terbanyak dibanding video yang lainnya (Rabu, 01/09/21). Hadiah total 2jt rupiah berhasil dikantongi oleh tim JNE Band Medan.
 
+![](/uploads/whatsapp-image-2021-09-08-at-09-21-45.jpeg)
+
 Komunitas _band_ JNE Medan yang terbentuk sejak 2017 dengan _jingle_ pertama _Connecting Happiness_ (2017) juga sudah melahirkan beberapa karya yang hingga kini senantiasa dijadikan _soundtrack_ dalam kegiatan-kegiatan JNE Medan. “Ksatria dan Srikandi JNE (2018), Menghantarkan Kebahagiaan (2020), Bangkitlah Sumutku (2021) _alhamdulillah_ sudah empat lagu yang berhasil kami ciptakan dan menjadi rasa bangga tersendiri ketika lagu-lagu kami diputar dalam kegiatan JNE,” tambah Chairul.
