@@ -1,7 +1,7 @@
 +++
 categories = ["community"]
 date = 2021-09-05T17:00:00Z
-image = "/uploads/whatsapp-image-2021-08-19-at-12-18-49.jpeg"
+image = "/uploads/dandi-vocalis.jpg"
 tags = ["community", "program", "inspiration"]
 title = "JNE Mes Band Raih Juara 2 dan Juara Favorit dalam Ajang Cipta Lagu Indonesia Merdeka Sumut Berkarya "
 
