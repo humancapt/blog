@@ -1,7 +1,7 @@
 +++
 categories = ["community"]
 date = 2021-09-05T17:00:00Z
-image = ""
+image = "/uploads/whatsapp-image-2021-09-08-at-09-16-18.jpeg"
 tags = ["community", "program", "inspiration"]
 title = "JNE Mes Band Raih Juara 2 dan Juara Favorit dalam Ajang Cipta Lagu Indonesia Merdeka Sumut Berkarya "
 
