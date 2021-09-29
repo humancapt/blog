@@ -101,3 +101,32 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 >
 > dapat menembus nirwana. hingga malaikat iri akan dirinya."  
 > @akhsan #sajak_introvert
+
+![](/uploads/ilham-syahputra-inb-n.jpeg)
+
+> "Bersyukur bagi yang masih bisa bekerja, jagalah nama baik tempatmu bekerja sebaik mungkin. Walaupun tidak membuatmu kaya, setidaknya bisa menghidupimu.   
+> Lebih baik lelah bekerja, daripada lelah mencari kerja. Perbanyaklah bersyukur"
+>
+> @Ilham Syahputra
+
+![](/uploads/chairul-ihsan-inb.jpeg)
+
+> "Tak selamanya kita tertawa, tak selamanya manusia menangis. Jadi tak perlu berlebihan ketika bahagia, dah tak perlu berlebihan ketika bersedih"
+>
+> @Chairul Ihsan Daulay. 
+
+![](/uploads/yose-rizal-pick-up.jpeg)
+
+> "Saat kamu bersemangat dengan apa yang kamu lakukan, itu artinya kamu sedang merasakan energy positif"   
+> @Yose Rizal
+
+![](/uploads/rahmad-a-pane-cbg.jpeg)
+
+> "Lakukanlah kebaikan sekecil apapun itu, karena kita tidak tahu kebaikan kecil mana yang akan menghantarkanmu ke surga."   
+> @Rahmad Abdullah Pane
+
+![](/uploads/budiman.jpeg)
+
+> "Pembelajar ialah yang mampu mengambil hikmah dari seluruh pelajaran hidup sejarah, agar tak mengulangi jebakan yang pernah terjadi dan mampu menciptakan sejarah baru disetiap tikungan siklus kehidupan. Selamat menjadi pembelajar"
+>
+> @Budiman
