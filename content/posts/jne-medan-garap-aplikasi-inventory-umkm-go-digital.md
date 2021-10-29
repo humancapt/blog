@@ -1,6 +1,6 @@
 +++
 categories = ["skill"]
-date = 2021-10-29T16:00:00Z
+date = 2021-10-29T06:00:00Z
 image = "/uploads/whatsapp-image-2021-10-18-at-16-42-25.jpeg"
 tags = ["skill", "inspiration", "motivation"]
 title = "JNE Medan Garap Aplikasi Inventory UMKM Go Digital"
