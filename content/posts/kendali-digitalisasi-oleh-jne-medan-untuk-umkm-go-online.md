@@ -1,6 +1,6 @@
 +++
 categories = ["inspiration"]
-date = 2021-11-29T18:00:00Z
+date = 2021-10-31T17:00:00Z
 image = "/uploads/umkm-go-digital-1.jpg"
 tags = ["inspiration", "motivation", "community"]
 title = "KENDALI DIGITALISASI OLEH JNE MEDAN UNTUK UMKM GO-ONLINE"
