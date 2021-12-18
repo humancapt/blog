@@ -104,7 +104,7 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 ![](/uploads/ilham-syahputra-inb-n.jpeg)
 
-> "Bersyukur bagi yang masih bisa bekerja, jagalah nama baik tempatmu bekerja sebaik mungkin. Walaupun tidak membuatmu kaya, setidaknya bisa menghidupimu.   
+> "Bersyukur bagi yang masih bisa bekerja, jagalah nama baik tempatmu bekerja sebaik mungkin. Walaupun tidak membuatmu kaya, setidaknya bisa menghidupimu.  
 > Lebih baik lelah bekerja, daripada lelah mencari kerja. Perbanyaklah bersyukur"
 >
 > @Ilham Syahputra
@@ -113,16 +113,16 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 
 > "Tak selamanya kita tertawa, tak selamanya manusia menangis. Jadi tak perlu berlebihan ketika bahagia, dah tak perlu berlebihan ketika bersedih"
 >
-> @Chairul Ihsan Daulay. 
+> @Chairul Ihsan Daulay.
 
 ![](/uploads/yose-rizal-pick-up.jpeg)
 
-> "Saat kamu bersemangat dengan apa yang kamu lakukan, itu artinya kamu sedang merasakan energy positif"   
+> "Saat kamu bersemangat dengan apa yang kamu lakukan, itu artinya kamu sedang merasakan energy positif"  
 > @Yose Rizal
 
 ![](/uploads/rahmad-a-pane-cbg.jpeg)
 
-> "Lakukanlah kebaikan sekecil apapun itu, karena kita tidak tahu kebaikan kecil mana yang akan menghantarkanmu ke surga."   
+> "Lakukanlah kebaikan sekecil apapun itu, karena kita tidak tahu kebaikan kecil mana yang akan menghantarkanmu ke surga."  
 > @Rahmad Abdullah Pane
 
 ![](/uploads/budiman.jpeg)
@@ -130,3 +130,83 @@ title = "'Employees Quotes' Kumpulan Quote, Sajak Ksatria Srikandi JNE Sumut"
 > "Pembelajar ialah yang mampu mengambil hikmah dari seluruh pelajaran hidup sejarah, agar tak mengulangi jebakan yang pernah terjadi dan mampu menciptakan sejarah baru disetiap tikungan siklus kehidupan. Selamat menjadi pembelajar"
 >
 > @Budiman
+
+![](/uploads/ayu-sintya-2.jpg)
+
+> "Lebih baik meningkatan penghasilanmu, 
+>
+> daripada mengurangi pengeluaranmu
+>
+> Dan jauh lebih baik meningkatkan semangatmu
+>
+> daripada mengecilkan mimpi-mimpimu" 
+>
+> @Ayu Sintya
+
+![](/uploads/ikhsan-2.jpg)
+
+> " SINGKAT " 
+>
+> Tau - tau menua 
+>
+> tau - tau sudah mulai lupa 
+>
+> Tau -tau rambut putih semua 
+>
+> Esoknya sudah tiada 
+>
+> Lenyap dari dunia 
+>
+> Berakhirlah kehidupan yang fana
+>
+> Lalu di alam kubur ditanya 
+>
+> "Selama hidup ngapain aja?"
+>
+> "Beribadah untuk siapa?"
+>
+> "Hartanya digunakan buat apa?"
+>
+> "Dirimu melakukannya untuk tuhanmu atau manusia?" 
+>
+> @_Akhsan_ #Sajak_Introvert
+
+![](/uploads/karim.jpg)
+
+> "Rezeki yang paling rendah adalah Harta, Rezeki yang paling tinggi adalah kesehatan, rezeki yang paling utama adalah anak yang sholeh sholehah"
+>
+> @Karim
+
+![](/uploads/m-hari.jpg)
+
+> "Dalam hidup, 
+>
+> terpaksa dan dipaksa melakukan hal baik lebih menyelamatkanmu, 
+>
+> ketimbang melakukan hal buruk secara sukarela yang dapat membinasakanmu" 
+>
+> @Muhammad Hari
+
+![](/uploads/sulaiman.jpg)
+
+> "Ketika bekerja, berpeluh-peluhlah
+>
+> Ketika belajar, berpikir dan berkutatlah 
+>
+> Ketika berjuang, berkorbanlah 
+>
+> Karena Sukses tak bisa diraih sambil berleha-leha. 
+>
+> @Sulaiman
+
+![](/uploads/tri-sutrisno.jpg)
+
+> " Jika semuanya sempurna, Anda tidak aan pernah belajar dan Anda tidak akan pernah tumbuh" 
+>
+> @Try Sutrissno 
+
+![](/uploads/yose-rizal-2.jpg)
+
+> "Kadang kita perlu sejenak menoleh ke belakang, agar waspada dan tidak mengulang kesalahan yang dapat menghambat sukses kita di masa depan"
+>
+> @Yose Rizal 
