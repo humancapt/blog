@@ -1,7 +1,6 @@
 +++
 categories = ["motivation"]
 date = 2022-04-19T17:00:00Z
-draft = true
 image = "/uploads/whatsapp-image-2022-04-14-at-10-50-19-1.jpeg"
 tags = [" inspiration", "motivation"]
 title = "Energi Bahagia Customer Menambah Semangat Connecting Happiness"
