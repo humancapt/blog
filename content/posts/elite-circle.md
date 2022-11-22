@@ -1,6 +1,6 @@
 +++
 categories = ["inspiration"]
-date = 2022-11-22T08:01:00Z
+date = 2022-11-22T08:02:00Z
 image = "/uploads/whatsapp-image-2022-11-19-at-16-44-53.jpeg"
 tags = ["inspiration", "motivation", "quotes", "skill"]
 title = "ELITE CIRCLE"
