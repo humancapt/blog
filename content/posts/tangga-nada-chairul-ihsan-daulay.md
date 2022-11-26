@@ -1,7 +1,6 @@
 +++
 categories = ["inspiration"]
 date = 2022-11-22T08:00:00Z
-draft = true
 image = "/uploads/20221107_173511.jpg"
 tags = ["inspiration", "motivation", "skill", "quotes"]
 title = "Tangga Nada Chairul Ihsan Daulay"
